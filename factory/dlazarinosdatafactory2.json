@@ -1,0 +1,9 @@
+{
+	"name": "dlazarinosdatafactory2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "67acb28b-4814-4a25-8db4-2a0e1b1ede66",
+		"tenantId": "e8081b24-1ae6-42a9-a09c-f10a0092c4d9"
+	}
+}
